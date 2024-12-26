@@ -1,0 +1,3 @@
+For build to .apk
+eas build --platform android --profile preview
+
